@@ -1,0 +1,17 @@
+# STM32CubeIDE specific
+Debug/
+Release/
+*.launch
+
+# Eclipse/CDT specific
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# OS generated
+.DS_Store
+Thumbs.db
