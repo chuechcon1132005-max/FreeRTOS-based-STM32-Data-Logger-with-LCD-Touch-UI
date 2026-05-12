@@ -41,7 +41,7 @@ Designed with industry-standard practices, this project demonstrates the ability
 
 ## Project Structure
 - `Core/Src/main.c`: Contains the FreeRTOS tasks, RTOS objects initialization, ADC calibration logic, and the UI rendering state machine.
-- `huong_dan_cam_ung.md`: Detailed technical documentation outlining the XPT2046 custom driver implementation and SPI bus management strategies.
+- `touch_guide.md`: Detailed technical documentation outlining the XPT2046 custom driver implementation and SPI bus management strategies.
 - `LCD28/` & `FATFS/`: Peripheral and file system drivers.
 
 ---
