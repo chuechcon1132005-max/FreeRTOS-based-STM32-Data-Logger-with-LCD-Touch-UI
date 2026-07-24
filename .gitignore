@@ -1,9 +1,11 @@
-# STM32CubeIDE specific
+# STM32CubeIDE / Eclipse
+.settings/
+.metadata/
 Debug/
 Release/
 *.launch
 
-# Eclipse/CDT specific
+# Build outputs
 *.o
 *.d
 *.elf
@@ -11,7 +13,16 @@ Release/
 *.bin
 *.map
 *.lst
+*.list
+*.su
+*.cyclo
 
-# OS generated
+# Local/editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
 .DS_Store
 Thumbs.db
+Desktop.ini
